@@ -1,0 +1,33 @@
+.blogTile{
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(204,204,204,0.6);
+    margin: 10px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.delete-button{
+    bottom: 0;
+    background: crimson;
+    width: 40%;
+    height: 30px;
+    border: none;
+    color: white;
+}
+
+.paragraph{
+    height: 40%;
+    overflow: hidden;
+    text-align: left;
+}
+
+.heading{
+    height: 20px;
+    overflow: hidden;
+}
+
+a{
+    color: black
+}

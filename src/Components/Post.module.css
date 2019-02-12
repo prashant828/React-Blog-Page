@@ -1,0 +1,6 @@
+.post{
+    width: 50%;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(204,204,204,0.6);
+    padding: 10px;
+}
