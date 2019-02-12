@@ -1,3 +1,13 @@
+sample blog page to demonstrate the working of React.
+packages: axios, react-router.
+axios is fetching an array of fake posts.
+state is updated with new fetched posts.
+delete button delete the post by removing that particular post from the components state.
+clicking on post tile takes user to the detailed blog page using react-router.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
